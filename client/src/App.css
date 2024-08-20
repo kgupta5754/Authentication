@@ -1,0 +1,23 @@
+.inp {
+	border: solid rgba(128, 128, 128, 0.356) 1px;
+	border-radius: 4px;
+	padding: 7px 10px;
+}
+.btn {
+	padding: 6px 20px;
+	color: white;
+	background-color: dodgerblue;
+	border-radius: 4px;
+}
+.btn-plain {
+	padding: 6px 20px;
+	border-radius: 4px;
+}
+
+.label {
+	font-weight: 800;
+}
+.value {
+	padding: 4px 10px;
+	color: rgb(29, 29, 29);
+}
